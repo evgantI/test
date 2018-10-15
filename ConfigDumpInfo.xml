@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.6">
 	<ConfigVersions>
-		<Metadata name="Catalog.Контрагенты" id="6d9f9259-241c-41d5-9f53-98ed8a62453e" configVersion="8ecfc19de903dd4eac1b7e80e6454d4000000000"/>
-		<Metadata name="Catalog.Контрагенты.ObjectModule" id="6d9f9259-241c-41d5-9f53-98ed8a62453e.0" configVersion="7c4b1b53b25eef44aee0664d880e4e8100000000"/>
+		<Metadata name="Catalog.Контрагенты" id="6d9f9259-241c-41d5-9f53-98ed8a62453e" configVersion="66673d3ebe6b9a44b9df686730b0e10300000000"/>
+		<Metadata name="Catalog.Контрагенты.ObjectModule" id="6d9f9259-241c-41d5-9f53-98ed8a62453e.0" configVersion="5e0627b7c473fe47bba57dcb97676a0100000000"/>
 		<Metadata name="Catalog.ФизЛица" id="a7de7bff-df20-4f58-816a-2027d7b2412e" configVersion="04856c8aa1d3c845901f00c00444a53400000000">
 			<Metadata name="Catalog.ФизЛица.Attribute.Отчество" id="028d9e05-0631-4a8c-a7ee-abe1e991c8cb"/>
 			<Metadata name="Catalog.ФизЛица.Attribute.Фамилия" id="3ed75bdd-a6e1-41cd-b3fd-4a07b06be605"/>
